@@ -1,5 +1,6 @@
 Renacana konten adit
 Video javascript
 -ES6
+fundamental data dasar
 -Framework javascript
 php
